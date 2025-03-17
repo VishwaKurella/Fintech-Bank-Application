@@ -1,0 +1,6 @@
+projectKey=FinTech_Bank
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=FinTech_Bank
+ceTaskId=694e5a4c-5475-4668-bd7a-2b340905b38c
+ceTaskUrl=http://localhost:9000/api/ce/task?id=694e5a4c-5475-4668-bd7a-2b340905b38c
