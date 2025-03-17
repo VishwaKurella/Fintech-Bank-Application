@@ -1,6 +1,7 @@
 "use server";
 import Sidebar from "@/components/Sidebar";
 import SidebarMobile from "@/components/SideBarMobile";
+import { getLoggedInUser } from "@/lib/actions/userAction";
 import Image from "next/image";
 
 export default async function Layout({ children }) {
